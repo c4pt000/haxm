@@ -1,6 +1,10 @@
 # experimental HAXM support as a kernel module untested use at your own risk,
 
 
+![s1](https://raw.githubusercontent.com/c4pt000/haxm/master/HAXM-virt-make-menu.png)
+
+![s1](https://raw.githubusercontent.com/c4pt000/haxm/master/HAXM-virt-make-menu-info.png)
+
 haxm                  241664  0
 
 ```
