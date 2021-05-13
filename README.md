@@ -5,7 +5,7 @@ can be found in make menuconfig
 "Virtualization"
 
 * requires nasm gcc and regular build tools
-
+```
 git clone https://github.com/c4pt000/haxm
 cd haxm/haxm
 make -j24 install
@@ -16,7 +16,7 @@ modinfo haxm
 
 
 
-
+```
 
 # Intel Hardware Accelerated Execution Manager (HAXM)
 
