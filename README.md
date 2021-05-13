@@ -1,3 +1,19 @@
+# experimental HAXM support as a kernel module untested use at your own risk,
+
+* requires nasm gcc and regular build tools
+
+git clone https://github.com/c4pt000/haxm
+cd haxm/haxm
+make -j24 install
+
+lsmod | grep haxm
+
+modinfo haxm
+
+
+
+
+
 # Intel Hardware Accelerated Execution Manager (HAXM)
 
 <img src="Installer/res/haxm_logo.ico" height="176px" align="right">

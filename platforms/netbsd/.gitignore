@@ -1,8 +1,0 @@
-# Build
-*.kmod.map
-*.kmod
-*~
-amd64
-i386
-machine
-x86

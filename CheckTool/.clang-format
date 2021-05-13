@@ -1,7 +1,0 @@
-# Refer to:
-# https://android.googlesource.com/platform/external/qemu/+/emu-master-dev/android/.clang-format
-
-BasedOnStyle: Chromium
-IndentWidth: 4
-ContinuationIndentWidth: 8
-AccessModifierOffset: -4

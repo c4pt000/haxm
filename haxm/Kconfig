@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: GPL-2.0-only
+#
+# Joystick driver configuration
+#
+
+
+
+config HAXM_CPU
+	tristate "HAXM CPU vt-x"
+	help
+	  Say Y here to enable haxm intel VT-X
+	  To compile this driver as a module, choose M here: the
+	  module will be called haxm
+
