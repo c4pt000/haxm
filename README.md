@@ -1,5 +1,9 @@
 # experimental HAXM support as a kernel module untested use at your own risk,
 
+can be found in make menuconfig
+
+"Virtualization"
+
 * requires nasm gcc and regular build tools
 
 git clone https://github.com/c4pt000/haxm
